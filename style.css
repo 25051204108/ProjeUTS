@@ -1,0 +1,35 @@
+body {
+  font-family: Georgia, serif;
+}
+
+#cover, .bg-hijau {
+  background: #2f4a3a;
+}
+
+.judul-emas {
+  color: #e6c987;
+}
+
+h2 {
+  color: #2f4a3a;
+}
+
+.kotak-waktu {
+  background: #2f4a3a;
+  color: white;
+  border-radius: 10px;
+  padding: 12px 4px;
+}
+
+.kotak-waktu span {
+  display: block;
+  font-size: 1.8rem;
+  color: #e6c987;
+}
+
+.ucapan {
+  background: #f6f2ea;
+  padding: 12px;
+  margin-bottom: 10px;
+  border-radius: 8px;
+}
